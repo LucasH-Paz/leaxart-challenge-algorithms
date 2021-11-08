@@ -16,4 +16,4 @@ const generateKey = (numberOfBlocks, blockSize) => {
   return result;
 };
 
-// console.log(generateKey(4, 5));
+const id = generateKey(4, 4);
