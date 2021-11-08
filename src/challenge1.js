@@ -1,4 +1,4 @@
-const exampleArray =  [ 'a', 10, 'b', 'hola', 122, 15];
+// const exampleArray =  [ 'a', 10, 'b', 'hola', 122, 15];
 
 const filterByType = (list, type) => list.filter((item) => typeof item === type);
 
